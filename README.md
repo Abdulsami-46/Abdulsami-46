@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Abdulsami-46
+- 👋 Hi, I’m Abdul Sami Shaikh
 - 👀 I’m interested in ...Web development
 - 🌱 I’m currently learning ...BCA SCIENCE
 - 💞️ I’m looking to collaborate on ...
